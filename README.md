@@ -1,10 +1,6 @@
 ## Bem vindo ao meu Perfil ##
 
-
-
-//Studying at the moment!
-  
-//C# Entra21 Blusoft!
+//Aluno C# - Entra21.
  
 
  
