@@ -7,16 +7,6 @@
 //C# Entra21 Blusoft!
  
 
-```kotlin
-Class Felipejaci 
-{
-  string name = "Felipe Andrei Jacinto";
-  string acknowledgements = "Programador novato";
- 
-  string[] primarySkillset = "Team work, Comunication";
-  List<string> languages = ("Java", "C#"); 
-}
-```
  
   <div>
   <a href="https://github.com/GRCcoelho">
