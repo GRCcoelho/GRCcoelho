@@ -2,10 +2,21 @@
 
 //Aluno C# - Entra21.
 
+```kotlin
+public class Coelho()
+{
+   string[] name = new string[] {"Gabriel", "Coelho"};
+   var ambition = "Professional programmer";
+   
+   List<string> baseSkills = new List<string>();
+   baseSkills.Add("intermediary English");
+   baseSkills.Add("commitment to the team");
+   
+   List<string> languages = new List<string>();
+   languages.Add("C#");
+}
+```
 
-
-
- 
   <div>
   <a href="https://github.com/GRCcoelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GRCcoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
