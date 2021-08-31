@@ -3,18 +3,7 @@
 //Aluno C# - Entra21.
 
 
-public class Coelho()
-{
-   string[] name = new string[] {"Gabriel", "Coelho"};
-   var ambition = "Professional programmer";
-   
-   List<string> baseSkills = new List<string>();
-   baseSkills.Add("intermediary English");
-   baseSkills.Add("commitment to the team");
-   
-   List<string> languages = new List<string>();
-   languages.Add("C#");
-}
+
 
  
   <div>
