@@ -5,7 +5,7 @@
 ```kotlin
 public class Coelho()
 {
-   string[] name = new string[] {"Gabriel", "Coelho"};
+   string[,] name = new string[] {"Gabriel", "Coelho"};
    var ambition = "Professional programmer";
    
    List<string> baseSkills = new List<string>();
