@@ -4,10 +4,6 @@
   <b>Olá, meu nome é Gabriel Coelho e eu sou desenvolvedor C#</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 </div>
 
-<div>
-  
-  </div>
-
 <table>
   <tr>
     <td width="50%"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRCcoelho&hide=html&layout=compact&theme=onedark" />  
