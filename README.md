@@ -2,7 +2,9 @@
 
 <div>
   <b>Olá, meu nome é Gabriel Coelho e eu sou desenvolvedor C#</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-</div>
+</div></br>
+
+
 
 <table>
   <tr>
