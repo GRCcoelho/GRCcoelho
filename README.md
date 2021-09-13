@@ -1,22 +1,8 @@
-## Bem vindo ao meu Perfil ##
+## Olá! 👋 ##
 
-//Aluno C# - Entra21.
-
-```kotlin
-public class Coelho()
-{
-   string[,] name = new string[] {"Gabriel", "Coelho"};
-   var ambition = "Professional programmer";
-   
-   List<string> baseSkills = new List<string>();
-   baseSkills.Add("intermediary English");
-   baseSkills.Add("commitment to the team");
-   
-   List<string> languages = new List<string>();
-   languages.Add("C#");
-}
-```
-
+<div>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+</div>
   <div>
   <a href="https://github.com/GRCcoelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GRCcoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -36,7 +22,4 @@ public class Coelho()
   <a href="https://www.instagram.com/gabzinrc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-coelho-0473751b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
- 
- 
- 
   </div>
