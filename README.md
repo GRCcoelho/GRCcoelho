@@ -1,13 +1,17 @@
 ## Olá! 👋 ##
 
 <div>
+  <h5 style="float: left;">Olá</h5>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 </div>
-  <div>
-  <a href="https://github.com/GRCcoelho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GRCcoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRCcoelho&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+<table>
+  <tr>
+    <td width="50%"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRCcoelho&hide=html&layout=compact&theme=onedark" />  
+    </td>
+    <td width="50%"><img height="100%" src="https://github-readme-stats.vercel.app/api?username=GRCcoelho&theme=onedark"/>  </td>
+  </tr>
+</table>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
