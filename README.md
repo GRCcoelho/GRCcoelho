@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td width="50%"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRCcoelho&hide=html&layout=compact&theme=onedark" />  
+    <td width="50%"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRCcoelho&layout=compact&theme=onedark" />  
     </td>
     <td width="50%"><img height="100%" src="https://github-readme-stats.vercel.app/api?username=GRCcoelho&theme=onedark"/>  </td>
   </tr>
